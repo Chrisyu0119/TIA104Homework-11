@@ -1,0 +1,9 @@
+#字號開頭是註解
+#*是萬用字元(代表附檔名為的檔案全部忽視)
+#也可以標示資料夾
+*.png
+target/
+.settings/
+bin/
+.classpath
+.project
